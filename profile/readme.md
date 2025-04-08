@@ -1,6 +1,6 @@
 # ByteGeometry
 
-<img src="bytegeometry.png" width="100%">
+<img src="LOGO_0.png" width="100%">
 
 [Byte Geometry](https://bytegeometry.com) is your dedicated partner in software development and cloud platform integration. We specialize in designing, building, implementing, and operating end-to-end cloud solutions, utilizing cutting-edge technologies to meet your unique business needs.
 
